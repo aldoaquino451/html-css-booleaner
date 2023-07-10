@@ -43,3 +43,11 @@ span {
 }
 
 /* ARTICLE */
+
+.photos img{
+  height: 500px;
+}
+
+.photos p {
+  font-size: 0.9rem;
+}
