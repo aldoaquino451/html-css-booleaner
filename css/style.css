@@ -1,6 +1,9 @@
+/* GENERAL */
+
 * {
   margin: 0;
   padding: 0;
+  font-size: 20px;
 }
 
 header {
@@ -9,8 +12,34 @@ header {
 
 }
 
+main {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+/* HEADER */
+
 header img {
   margin-top: 50px;
   padding: 10px 20px;
   width: 250px;
 }
+
+/* TITLE */
+
+.references {
+  color: grey;
+}
+
+.references p {
+  padding: 5px 0;
+}
+
+span {
+  color: #4ea0ff;
+}
+
+/* ARTICLE */
