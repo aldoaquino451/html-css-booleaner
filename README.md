@@ -1,7 +1,7 @@
 The Booleaner
 ===
 
-### Erecizio
+### Esercizio
 Riprodurre il layout che che compare nel file Booleaner-screen.png
 
 ### Esercizio Bonus
